@@ -1,0 +1,2 @@
+Source	Organism	Retrieved_UTC	Pathway_terms	Gene_term_edges	Compound_term_edges
+Official KEGG REST responses downloaded with Windows curl; parsed in R	mmu	2026-08-28	368	41880	10594

@@ -1,0 +1,369 @@
+Term_ID	Term_name	Map_ID
+mmu01100	Metabolic pathways	map01100
+mmu01200	Carbon metabolism	map01200
+mmu01210	2-Oxocarboxylic acid metabolism	map01210
+mmu01212	Fatty acid metabolism	map01212
+mmu01230	Biosynthesis of amino acids	map01230
+mmu01232	Nucleotide metabolism	map01232
+mmu01250	Biosynthesis of nucleotide sugars	map01250
+mmu01240	Biosynthesis of cofactors	map01240
+mmu01320	Sulfur cycle	map01320
+mmu00010	Glycolysis / Gluconeogenesis	map00010
+mmu00020	Citrate cycle (TCA cycle)	map00020
+mmu00030	Pentose phosphate pathway	map00030
+mmu00040	Pentose and glucuronate interconversions	map00040
+mmu00051	Fructose and mannose metabolism	map00051
+mmu00052	Galactose metabolism	map00052
+mmu00053	Ascorbate and aldarate metabolism	map00053
+mmu00500	Starch and sucrose metabolism	map00500
+mmu00620	Pyruvate metabolism	map00620
+mmu00630	Glyoxylate and dicarboxylate metabolism	map00630
+mmu00640	Propanoate metabolism	map00640
+mmu00650	Butanoate metabolism	map00650
+mmu00660	C5-Branched dibasic acid metabolism	map00660
+mmu00562	Inositol phosphate metabolism	map00562
+mmu00190	Oxidative phosphorylation	map00190
+mmu00910	Nitrogen metabolism	map00910
+mmu00920	Sulfur metabolism	map00920
+mmu00061	Fatty acid biosynthesis	map00061
+mmu00062	Fatty acid elongation	map00062
+mmu00071	Fatty acid degradation	map00071
+mmu00100	Steroid biosynthesis	map00100
+mmu00120	Primary bile acid biosynthesis	map00120
+mmu00140	Steroid hormone biosynthesis	map00140
+mmu00561	Glycerolipid metabolism	map00561
+mmu00564	Glycerophospholipid metabolism	map00564
+mmu00565	Ether lipid metabolism	map00565
+mmu00600	Sphingolipid metabolism	map00600
+mmu00590	Arachidonic acid metabolism	map00590
+mmu00591	Linoleic acid metabolism	map00591
+mmu00592	alpha-Linolenic acid metabolism	map00592
+mmu01040	Biosynthesis of unsaturated fatty acids	map01040
+mmu00230	Purine metabolism	map00230
+mmu00240	Pyrimidine metabolism	map00240
+mmu00250	Alanine, aspartate and glutamate metabolism	map00250
+mmu00260	Glycine, serine and threonine metabolism	map00260
+mmu00270	Cysteine and methionine metabolism	map00270
+mmu00280	Valine, leucine and isoleucine degradation	map00280
+mmu00290	Valine, leucine and isoleucine biosynthesis	map00290
+mmu00310	Lysine degradation	map00310
+mmu00220	Arginine biosynthesis	map00220
+mmu00330	Arginine and proline metabolism	map00330
+mmu00340	Histidine metabolism	map00340
+mmu00350	Tyrosine metabolism	map00350
+mmu00360	Phenylalanine metabolism	map00360
+mmu00380	Tryptophan metabolism	map00380
+mmu00400	Phenylalanine, tyrosine and tryptophan biosynthesis	map00400
+mmu00410	beta-Alanine metabolism	map00410
+mmu00430	Taurine and hypotaurine metabolism	map00430
+mmu00440	Phosphonate and phosphinate metabolism	map00440
+mmu00450	Selenocompound metabolism	map00450
+mmu00470	D-Amino acid metabolism	map00470
+mmu00480	Glutathione metabolism	map00480
+mmu00520	Amino sugar and nucleotide sugar metabolism	map00520
+mmu00541	Biosynthesis of various nucleotide sugars	map00541
+mmu00510	N-Glycan biosynthesis	map00510
+mmu00513	Various types of N-glycan biosynthesis	map00513
+mmu00512	Mucin type O-glycan biosynthesis	map00512
+mmu00515	Mannose type O-glycan biosynthesis	map00515
+mmu00514	Other types of O-glycan biosynthesis	map00514
+mmu00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	map00532
+mmu00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin	map00534
+mmu00533	Glycosaminoglycan biosynthesis - keratan sulfate	map00533
+mmu00531	Glycosaminoglycan degradation	map00531
+mmu00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	map00563
+mmu00601	Glycosphingolipid biosynthesis - lacto and neolacto series	map00601
+mmu00603	Glycosphingolipid biosynthesis - globo and isoglobo series	map00603
+mmu00604	Glycosphingolipid biosynthesis - ganglio series	map00604
+mmu00511	Other glycan degradation	map00511
+mmu00730	Thiamine metabolism	map00730
+mmu00740	Riboflavin metabolism	map00740
+mmu00750	Vitamin B6 metabolism	map00750
+mmu00760	Nicotinate and nicotinamide metabolism	map00760
+mmu00770	Pantothenate and CoA biosynthesis	map00770
+mmu00780	Biotin metabolism	map00780
+mmu00785	Lipoic acid metabolism	map00785
+mmu00790	Folate biosynthesis	map00790
+mmu00670	One carbon pool by folate	map00670
+mmu00830	Retinol metabolism	map00830
+mmu00860	Porphyrin metabolism	map00860
+mmu00130	Ubiquinone and other terpenoid-quinone biosynthesis	map00130
+mmu00900	Terpenoid backbone biosynthesis	map00900
+mmu00232	Caffeine metabolism	map00232
+mmu00524	Neomycin, kanamycin and gentamicin biosynthesis	map00524
+mmu00980	Metabolism of xenobiotics by cytochrome P450	map00980
+mmu00982	Drug metabolism - cytochrome P450	map00982
+mmu00983	Drug metabolism - other enzymes	map00983
+mmu03020	RNA polymerase	map03020
+mmu03022	Basal transcription factors	map03022
+mmu03040	Spliceosome	map03040
+mmu03010	Ribosome	map03010
+mmu00970	Aminoacyl-tRNA biosynthesis	map00970
+mmu03013	Nucleocytoplasmic transport	map03013
+mmu03015	mRNA surveillance pathway	map03015
+mmu03008	Ribosome biogenesis in eukaryotes	map03008
+mmu03060	Protein export	map03060
+mmu04141	Protein processing in endoplasmic reticulum	map04141
+mmu04130	SNARE interactions in vesicular transport	map04130
+mmu04120	Ubiquitin mediated proteolysis	map04120
+mmu04122	Sulfur relay system	map04122
+mmu03050	Proteasome	map03050
+mmu03018	RNA degradation	map03018
+mmu03030	DNA replication	map03030
+mmu03410	Base excision repair	map03410
+mmu03420	Nucleotide excision repair	map03420
+mmu03430	Mismatch repair	map03430
+mmu03440	Homologous recombination	map03440
+mmu03450	Non-homologous end-joining	map03450
+mmu03460	Fanconi anemia pathway	map03460
+mmu03082	ATP-dependent chromatin remodeling	map03082
+mmu03083	Polycomb repressive complex	map03083
+mmu03250	Viral life cycle - HIV-1	map03250
+mmu03260	Virion - Human immunodeficiency virus	map03260
+mmu03271	Virion - Rotavirus	map03271
+mmu03264	Virion - Flavivirus and Alphavirus	map03264
+mmu03265	Virion - Ebolavirus, Lyssavirus and Morbillivirus	map03265
+mmu03273	Virion - Lassa virus and SFTS virus	map03273
+mmu03272	Virion - Hepatitis viruses	map03272
+mmu03266	Virion - Herpesvirus	map03266
+mmu03267	Virion - Adenovirus	map03267
+mmu02010	ABC transporters	map02010
+mmu04010	MAPK signaling pathway	map04010
+mmu04012	ErbB signaling pathway	map04012
+mmu04014	Ras signaling pathway	map04014
+mmu04015	Rap1 signaling pathway	map04015
+mmu04310	Wnt signaling pathway	map04310
+mmu04330	Notch signaling pathway	map04330
+mmu04340	Hedgehog signaling pathway	map04340
+mmu04350	TGF-beta signaling pathway	map04350
+mmu04390	Hippo signaling pathway	map04390
+mmu04392	Hippo signaling pathway - multiple species	map04392
+mmu04370	VEGF signaling pathway	map04370
+mmu04371	Apelin signaling pathway	map04371
+mmu04630	JAK-STAT signaling pathway	map04630
+mmu04064	NF-kappa B signaling pathway	map04064
+mmu04668	TNF signaling pathway	map04668
+mmu04066	HIF-1 signaling pathway	map04066
+mmu04068	FoxO signaling pathway	map04068
+mmu04020	Calcium signaling pathway	map04020
+mmu04070	Phosphatidylinositol signaling system	map04070
+mmu04072	Phospholipase D signaling pathway	map04072
+mmu04071	Sphingolipid signaling pathway	map04071
+mmu04024	cAMP signaling pathway	map04024
+mmu04022	cGMP-PKG signaling pathway	map04022
+mmu04151	PI3K-Akt signaling pathway	map04151
+mmu04152	AMPK signaling pathway	map04152
+mmu04150	mTOR signaling pathway	map04150
+mmu04080	Neuroactive ligand-receptor interaction	map04080
+mmu04082	Neuroactive ligand signaling	map04082
+mmu04081	Hormone signaling	map04081
+mmu04060	Cytokine-cytokine receptor interaction	map04060
+mmu04061	Viral protein interaction with cytokine and cytokine receptor	map04061
+mmu04512	ECM-receptor interaction	map04512
+mmu04514	Cell adhesion molecule (CAM) interaction	map04514
+mmu04517	IgSF CAM signaling	map04517
+mmu04518	Integrin signaling	map04518
+mmu04519	Cadherin signaling	map04519
+mmu04144	Endocytosis	map04144
+mmu04145	Phagocytosis	map04145
+mmu04142	Lysosome biogenesis	map04142
+mmu04146	Peroxisome	map04146
+mmu04140	Autophagy - animal	map04140
+mmu04136	Autophagy - other	map04136
+mmu04137	Mitophagy - animal	map04137
+mmu04148	Efferocytosis	map04148
+mmu04110	Cell cycle	map04110
+mmu04114	Oocyte meiosis	map04114
+mmu04210	Apoptosis	map04210
+mmu04215	Apoptosis - multiple species	map04215
+mmu04216	Ferroptosis	map04216
+mmu04217	Necroptosis	map04217
+mmu04115	p53 signaling pathway	map04115
+mmu04218	Cellular senescence	map04218
+mmu04156	Integrated stress response (ISR) signaling pathway	map04156
+mmu04510	Focal adhesion	map04510
+mmu04520	Adherens junction	map04520
+mmu04530	Tight junction	map04530
+mmu04540	Gap junction	map04540
+mmu04550	Signaling pathways regulating pluripotency of stem cells	map04550
+mmu04814	Motor proteins	map04814
+mmu04820	Cytoskeleton in muscle cells	map04820
+mmu04810	Regulation of actin cytoskeleton	map04810
+mmu04640	Hematopoietic cell lineage	map04640
+mmu04610	Complement and coagulation cascades	map04610
+mmu04611	Platelet activation	map04611
+mmu04613	Neutrophil extracellular trap formation	map04613
+mmu04620	Toll-like receptor signaling pathway	map04620
+mmu04621	NOD-like receptor signaling pathway	map04621
+mmu04622	RIG-I-like receptor signaling pathway	map04622
+mmu04623	Cytosolic DNA-sensing pathway	map04623
+mmu04625	C-type lectin receptor signaling pathway	map04625
+mmu04650	Natural killer cell mediated cytotoxicity	map04650
+mmu04612	Antigen processing and presentation	map04612
+mmu04660	T cell receptor signaling pathway	map04660
+mmu04658	Th1 and Th2 cell differentiation	map04658
+mmu04659	Th17 cell differentiation	map04659
+mmu04657	IL-17 signaling pathway	map04657
+mmu04662	B cell receptor signaling pathway	map04662
+mmu04664	Fc epsilon RI signaling pathway	map04664
+mmu04666	Fc gamma R-mediated phagosome formation	map04666
+mmu04670	Leukocyte transendothelial migration	map04670
+mmu04672	Intestinal immune network for IgA production	map04672
+mmu04062	Chemokine signaling pathway	map04062
+mmu04911	Insulin secretion	map04911
+mmu04910	Insulin signaling pathway	map04910
+mmu04922	Glucagon signaling pathway	map04922
+mmu04923	Regulation of lipolysis in adipocytes	map04923
+mmu04920	Adipocytokine signaling pathway	map04920
+mmu03320	PPAR signaling pathway	map03320
+mmu04929	GnRH secretion	map04929
+mmu04912	GnRH signaling pathway	map04912
+mmu04913	Ovarian steroidogenesis	map04913
+mmu04915	Estrogen signaling pathway	map04915
+mmu04914	Progesterone-mediated oocyte maturation	map04914
+mmu04917	Prolactin signaling pathway	map04917
+mmu04921	Oxytocin signaling pathway	map04921
+mmu04926	Relaxin signaling pathway	map04926
+mmu04935	Growth hormone synthesis, secretion and action	map04935
+mmu04918	Thyroid hormone synthesis	map04918
+mmu04919	Thyroid hormone signaling pathway	map04919
+mmu04928	Parathyroid hormone synthesis, secretion and action	map04928
+mmu04916	Melanogenesis	map04916
+mmu04924	Renin secretion	map04924
+mmu04614	Renin-angiotensin system	map04614
+mmu04925	Aldosterone synthesis and secretion	map04925
+mmu04927	Cortisol synthesis and secretion	map04927
+mmu04260	Cardiac muscle contraction	map04260
+mmu04261	Adrenergic signaling in cardiomyocytes	map04261
+mmu04270	Vascular smooth muscle contraction	map04270
+mmu04970	Salivary secretion	map04970
+mmu04971	Gastric acid secretion	map04971
+mmu04972	Pancreatic secretion	map04972
+mmu04976	Bile secretion	map04976
+mmu04973	Carbohydrate digestion and absorption	map04973
+mmu04974	Protein digestion and absorption	map04974
+mmu04975	Fat digestion and absorption	map04975
+mmu04979	Cholesterol metabolism	map04979
+mmu04977	Vitamin digestion and absorption	map04977
+mmu04981	Folate transport and metabolism	map04981
+mmu04980	Cobalamin transport and metabolism	map04980
+mmu04978	Mineral absorption	map04978
+mmu04962	Vasopressin-regulated water reabsorption	map04962
+mmu04960	Aldosterone-regulated sodium reabsorption	map04960
+mmu04961	Endocrine and other factor-regulated calcium reabsorption	map04961
+mmu04964	Proximal tubule bicarbonate reclamation	map04964
+mmu04966	Collecting duct acid secretion	map04966
+mmu04724	Glutamatergic synapse	map04724
+mmu04727	GABAergic synapse	map04727
+mmu04725	Cholinergic synapse	map04725
+mmu04728	Dopaminergic synapse	map04728
+mmu04726	Serotonergic synapse	map04726
+mmu04720	Long-term potentiation	map04720
+mmu04730	Long-term depression	map04730
+mmu04723	Retrograde endocannabinoid signaling	map04723
+mmu04721	Synaptic vesicle cycle	map04721
+mmu04722	Neurotrophin signaling pathway	map04722
+mmu04744	Phototransduction	map04744
+mmu04740	Olfactory transduction	map04740
+mmu04742	Taste transduction	map04742
+mmu04750	Inflammatory mediator regulation of TRP channels	map04750
+mmu04360	Axon guidance	map04360
+mmu04380	Osteoclast differentiation	map04380
+mmu04382	Cornified envelope formation	map04382
+mmu04211	Longevity regulating pathway	map04211
+mmu04213	Longevity regulating pathway - multiple species	map04213
+mmu04710	Circadian rhythm	map04710
+mmu04713	Circadian entrainment	map04713
+mmu04714	Thermogenesis	map04714
+mmu05200	Pathways in cancer	map05200
+mmu05202	Transcriptional misregulation in cancer	map05202
+mmu05206	MicroRNAs in cancer	map05206
+mmu05205	Proteoglycans in cancer	map05205
+mmu05204	Chemical carcinogenesis - DNA adducts	map05204
+mmu05207	Chemical carcinogenesis - receptor activation	map05207
+mmu05208	Chemical carcinogenesis - reactive oxygen species	map05208
+mmu05203	Viral carcinogenesis	map05203
+mmu05230	Central carbon metabolism in cancer	map05230
+mmu05231	Choline metabolism in cancer	map05231
+mmu05235	PD-L1 expression and PD-1 checkpoint pathway in cancer	map05235
+mmu05210	Colorectal cancer	map05210
+mmu05212	Pancreatic cancer	map05212
+mmu05225	Hepatocellular carcinoma	map05225
+mmu05226	Gastric cancer	map05226
+mmu05214	Glioma	map05214
+mmu05216	Thyroid cancer	map05216
+mmu05221	Acute myeloid leukemia	map05221
+mmu05220	Chronic myeloid leukemia	map05220
+mmu05217	Basal cell carcinoma	map05217
+mmu05218	Melanoma	map05218
+mmu05211	Renal cell carcinoma	map05211
+mmu05219	Bladder cancer	map05219
+mmu05215	Prostate cancer	map05215
+mmu05213	Endometrial cancer	map05213
+mmu05224	Breast cancer	map05224
+mmu05222	Small cell lung cancer	map05222
+mmu05223	Non-small cell lung cancer	map05223
+mmu05166	Human T-cell leukemia virus 1 infection	map05166
+mmu05170	Human immunodeficiency virus 1 infection	map05170
+mmu05161	Hepatitis B	map05161
+mmu05160	Hepatitis C	map05160
+mmu05171	Coronavirus disease	map05171
+mmu05164	Influenza A	map05164
+mmu05162	Measles	map05162
+mmu05168	Herpes simplex virus 1 infection	map05168
+mmu05163	Human cytomegalovirus infection	map05163
+mmu05167	Kaposi sarcoma-associated herpesvirus infection	map05167
+mmu05169	Epstein-Barr virus infection	map05169
+mmu05165	Human papillomavirus infection	map05165
+mmu05132	Salmonella infection	map05132
+mmu05135	Yersinia infection	map05135
+mmu05133	Pertussis	map05133
+mmu05134	Legionellosis	map05134
+mmu05150	Staphylococcus aureus infection	map05150
+mmu05152	Tuberculosis	map05152
+mmu05100	Bacterial invasion of epithelial cells	map05100
+mmu05146	Amoebiasis	map05146
+mmu05144	Malaria	map05144
+mmu05145	Toxoplasmosis	map05145
+mmu05140	Leishmaniasis	map05140
+mmu05142	Chagas disease	map05142
+mmu05143	African trypanosomiasis	map05143
+mmu05310	Asthma	map05310
+mmu05322	Systemic lupus erythematosus	map05322
+mmu05323	Rheumatoid arthritis	map05323
+mmu05320	Autoimmune thyroid disease	map05320
+mmu05321	Inflammatory bowel disease	map05321
+mmu05330	Allograft rejection	map05330
+mmu05332	Graft-versus-host disease	map05332
+mmu05340	Primary immunodeficiency	map05340
+mmu05010	Alzheimer disease	map05010
+mmu05012	Parkinson disease	map05012
+mmu05014	Amyotrophic lateral sclerosis	map05014
+mmu05016	Huntington disease	map05016
+mmu05017	Spinocerebellar ataxia	map05017
+mmu05020	Prion disease	map05020
+mmu05022	Pathways of neurodegeneration - multiple diseases	map05022
+mmu05030	Cocaine addiction	map05030
+mmu05031	Amphetamine addiction	map05031
+mmu05032	Morphine addiction	map05032
+mmu05033	Nicotine addiction	map05033
+mmu05034	Alcoholism	map05034
+mmu05417	Lipid and atherosclerosis	map05417
+mmu05418	Fluid shear stress and atherosclerosis	map05418
+mmu05410	Hypertrophic cardiomyopathy	map05410
+mmu05412	Arrhythmogenic right ventricular cardiomyopathy	map05412
+mmu05414	Dilated cardiomyopathy	map05414
+mmu05415	Diabetic cardiomyopathy	map05415
+mmu05416	Viral myocarditis	map05416
+mmu04930	Type II diabetes mellitus	map04930
+mmu04940	Type I diabetes mellitus	map04940
+mmu04950	Maturity onset diabetes of the young	map04950
+mmu04936	Alcoholic liver disease	map04936
+mmu04932	Non-alcoholic fatty liver disease	map04932
+mmu04931	Insulin resistance	map04931
+mmu04933	AGE-RAGE signaling pathway in diabetic complications	map04933
+mmu04934	Cushing syndrome	map04934
+mmu01521	EGFR tyrosine kinase inhibitor resistance	map01521
+mmu01524	Platinum drug resistance	map01524
+mmu01523	Antifolate resistance	map01523
+mmu01522	Endocrine resistance	map01522

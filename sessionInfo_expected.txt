@@ -1,0 +1,13 @@
+Target reproducibility environment
+
+R version 4.4.3
+Platform: x86_64-pc-linux-gnu
+Bioconductor version 3.20
+Locale: UTF-8
+Random seed: 20260828
+
+The authoritative package targets are listed in config/package_versions_target.tsv.
+Every completed run writes the actually loaded versions to:
+  outputs/reproducibility/package_versions_actual.csv
+and the complete session record to:
+  outputs/reproducibility/sessionInfo.txt
